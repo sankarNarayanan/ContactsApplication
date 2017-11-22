@@ -5,7 +5,7 @@
 //  Created by Sankar Narayanan on 23/03/17.
 //  Copyright © 2017 Sankar Narayanan. All rights reserved.
 //
-//Minor check - 5
+//Minor check - 6
 import UIKit
 
 @UIApplicationMain
